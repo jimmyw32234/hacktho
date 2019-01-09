@@ -1,0 +1,73 @@
+p {
+} 
+
+body{
+}
+
+
+.buttons {
+    display:flex;
+    justify-content: center;
+    
+}
+
+.buttons button { 
+    background-color: #6457B6;
+    border: 5px solid white;
+    color: #ffff99;
+    text-align: center;
+    font-size: 30px;
+    width: 600px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.content {
+    display:flex;
+    color:white;
+}
+
+.sidetext1 {
+    width: 25%;
+    border: 1px solid white;
+    height: 500px;
+}
+
+.picture-container { 
+    width: 50%;
+    border: 2px solid maroon;
+    height: 500px;
+    display:flex;
+    flex-direction: column;
+}
+
+.sidetext2 {
+    width: 25%;
+    border: 1px solid white;
+}
+
+.picture { 
+    border: 2px solid maroon;
+    height: 75% ;
+}
+
+.caption { 
+    border: 2px solid maroon;
+    height: 25% ;
+}
+
+.middle {
+    width:100%;
+    height: 100%;
+
+}
+
+body { 
+    background-image: url("https://helix.northwestern.edu/sites/helix/files/styles/16by9/public/wp-content/uploads/2013/11/iStock_000013954612Small_crop.png?itok=I4D9caYf");
+}
+h1 {
+    font-size:22px;
+}
+
+li { 
+    font-size: 20px;
+}
